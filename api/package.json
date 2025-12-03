@@ -27,7 +27,7 @@
     "mongodb": "^4.16.0",
     "nanoid": "3",
     "no-profanity": "^1.4.2",
-    "nodemailer": "^6.9.3",
+    "nodemailer": "^7.0.11",
     "nodemon": "2.0.22",
     "pino-pretty": "10.2.0",
     "query-string": "^7.1.3"
