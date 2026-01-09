@@ -1,0 +1,15 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:debug:20170905':
+    - loopback > debug:
+        patched: '2026-01-09T12:01:07.601Z'
+        id: 'npm:debug:20170905'
+        path: loopback > debug
+  'npm:ms:20170412':
+    - loopback > debug > ms:
+        patched: '2026-01-09T12:01:07.601Z'
+        id: 'npm:ms:20170412'
+        path: loopback > debug > ms
