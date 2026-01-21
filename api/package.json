@@ -7,7 +7,7 @@
     "@aws-sdk/client-ses": "^3.347.1",
     "@fastify/cookie": "^8.3.0",
     "@fastify/csrf-protection": "6.3.0",
-    "@fastify/middie": "8.3",
+    "@fastify/middie": "9.1.0",
     "@fastify/session": "^10.1.1",
     "@fastify/swagger": "^8.3.1",
     "@fastify/swagger-ui": "^1.5.0",
